@@ -10,12 +10,12 @@
 title: |-
   Fortinet VPN Connector
 summary: |
-  This step allows you to connect bitrise and fortinet vpn
+  This step perform VPN connection with fortinet VPN protocol
 description: |
-  This step allows you to connect bitrise and fortinet vpn
-website: https://github.com/SalosV/bitrise-step-bitrise-step-fortinet-vpn-connector
-source_code_url: https://github.com/SalosV/bitrise-step-bitrise-step-fortinet-vpn-connector
-support_url: https://github.com/SalosV/bitrise-step-bitrise-step-fortinet-vpn-connector/issues
+  No description
+website: https://github.com/cleberhenriques/bitrise-step-fortinet-vpn-connector
+source_code_url: https://github.com/cleberhenriques/bitrise-step-fortinet-vpn-connector
+support_url: https://github.com/cleberhenriques/bitrise-step-fortinet-vpn-connector/issues
 host_os_tags:
   - osx-10.10
   - ubuntu-16.04
